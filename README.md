@@ -1,6 +1,6 @@
 
 
-**[Click here to view the live demo on GitHub Pages](https://gaurav-soni24.github.io/itzfizz-assignment/)**
+**[Click here to view the live demo on GitHub Pages](https://ateebsarvar.github.io/IF-Assignment/)**
 
 
 
